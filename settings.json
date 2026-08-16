@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 300,
       "messages": [
         "I'm a regular player",
         "Can Pay Coffee For Me Asura!",
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.gg/X2ArMBM45",
     "events": {
       "connect": true,
       "disconnect": true,
