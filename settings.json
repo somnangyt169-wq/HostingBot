@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ASuraGo.aternos.me:46372",
+    "ip": "ASuraGo.aternos.me",
     "port": 46372,
-    "version": "",
+    "version": "26.40",
     "try-creative": false
   },
   "position": {
